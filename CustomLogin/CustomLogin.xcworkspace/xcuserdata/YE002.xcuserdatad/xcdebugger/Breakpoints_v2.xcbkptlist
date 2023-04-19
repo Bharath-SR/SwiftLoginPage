@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59C37445-E34C-437F-87EE-F80614D31E60"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3013B3EE-2A3A-4DD3-AF8E-989D89C9A0EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "configureHomeController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B075A16E-8CC0-4FF4-B033-4D2CEDF42681"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "configureHomeController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0129CFF4-098F-40F4-9EA0-F15B7FB624EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "signout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CB3D066-7693-4A5E-AB09-499783CB7048"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "signout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "431C7CC7-83C6-460F-AB60-1AE1FE626E31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "signout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "431C7CC7-83C6-460F-AB60-1AE1FE626E31 - 642bf6a530f14e85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ContainerController.signout() -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/SideMenu/ContainerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "777">
+               </Location>
+               <Location
+                  uuid = "431C7CC7-83C6-460F-AB60-1AE1FE626E31 - 642bf6a530f14e85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ContainerController.signout() -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/SideMenu/ContainerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "793">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39C431D5-61D8-4D7D-ACAD-797FF29E261F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/AddNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "addNotes(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39C431D5-61D8-4D7D-ACAD-797FF29E261F - 961f855ad1ee2ce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ViewController.addNotes(__C.UIButton) -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "39C431D5-61D8-4D7D-ACAD-797FF29E261F - 961f855ad1ee2ce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ViewController.addNotes(__C.UIButton) -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "339">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B95FABF3-9F87-4D2D-B7ED-33D0610BF4A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/AddNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "addNotes(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B95FABF3-9F87-4D2D-B7ED-33D0610BF4A1 - 961f855ad1ee2ce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ViewController.addNotes(__C.UIButton) -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "B95FABF3-9F87-4D2D-B7ED-33D0610BF4A1 - 961f855ad1ee2ce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLogin.ViewController.addNotes(__C.UIButton) -&gt; ()"
+                  moduleName = "CustomLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/YE002/Desktop/CustomLoginPage/CustomLogin/CustomLogin/View%20Controllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "339">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0249CA02-7DA4-4C7E-85A3-08F18D31D227"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/AddNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "addNotes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFA60BD1-8470-482E-B66E-8A3AD026E689"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLogin/View Controllers/SideMenu/ContainerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "signout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
